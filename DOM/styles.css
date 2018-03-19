@@ -1,0 +1,19 @@
+#sec-text {
+    padding: 1em;
+    margin: 1em;
+}
+#sec-btn {
+    display: block;
+    margin-top: 2em;
+}
+
+#color-change {
+    background-color: black;
+    width: 10em;
+    height: 10em;
+    margin: 1em;
+}
+
+#random-text {
+    font-size: 2em;
+}
